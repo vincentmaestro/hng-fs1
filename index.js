@@ -17,7 +17,7 @@ function getDay() {
         case 5: return 'Friday';
         case 6: return 'Saturday';
 
-        default: return 'unknown'
+        default: return 'Everyday Italawa'
     }
 }
 
